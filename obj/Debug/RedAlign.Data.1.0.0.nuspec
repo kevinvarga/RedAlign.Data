@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RedAlign.Data</id>
+    <version>1.0.0</version>
+    <authors>RedAlign.Data</authors>
+    <description>RedAlign X1 data formats</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="MongoDB.Bson" version="2.17.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/kvarga/GitHub/RedAlign.Shared/RedAlign.Data/bin/Debug/net6.0/RedAlign.Data.dll" target="lib/net6.0/RedAlign.Data.dll" />
+  </files>
+</package>

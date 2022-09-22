@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KcsUhp1Fu6D4tWxZFJBfvzGxFyKAH94zN5xgVBlzofrOtF4+4KQeddM1nyuU7rPPeUZXzl0n2afJl+smO4/jww==",
+  "success": true,
+  "projectFilePath": "/Users/kvarga/GitHub/RedAlign.Shared/RedAlign.Data/RedAlign.Data.csproj",
+  "expectedPackageFiles": [
+    "/Users/kvarga/.nuget/packages/mongodb.bson/2.17.1/mongodb.bson.2.17.1.nupkg.sha512",
+    "/Users/kvarga/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
